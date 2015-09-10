@@ -1,0 +1,7 @@
+.idea/
+app.js
+app.js.map
+components/*.js
+components/*.map
+services/*.js
+services/*.map
